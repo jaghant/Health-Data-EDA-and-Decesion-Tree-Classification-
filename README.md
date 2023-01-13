@@ -18,4 +18,26 @@
 ### Diagnosis In Month Wise Filtered.
 ![image](https://user-images.githubusercontent.com/108980892/212246245-c2b13787-d476-45f1-bc4b-9b17600cc5d7.png) ![image](https://user-images.githubusercontent.com/108980892/212246278-f0a6b127-2f92-4b30-a3a4-de1ab2f16391.png)
 
+### No Diagnosis In Month Wise Filtered.
+![image](https://user-images.githubusercontent.com/108980892/212247336-47dc2a8a-d144-4895-bdf5-3e68b181fae7.png) ![image](https://user-images.githubusercontent.com/108980892/212247400-5be8d815-4bde-44bc-b296-ad3ac51b7997.png)
+
+### After cleanning the data
+![image](https://user-images.githubusercontent.com/108980892/212247502-16785420-e78b-47f5-86be-447b43b65c3b.png)
+
+## Decision Tree Classifier.
+     After feature extraction
+![image](https://user-images.githubusercontent.com/108980892/212247988-9d9d37af-88ce-4829-ae86-6b3d00e93106.png)
+
+### Find The Accuracy.
+![image](https://user-images.githubusercontent.com/108980892/212248206-aced1fd2-53c9-44bb-b39e-58ba965172bc.png)
+
+### Visualising the decision tree graph.
+![image](https://user-images.githubusercontent.com/108980892/212248314-92010259-09fe-4c15-8a4a-38830acfc020.png)
+
+### Ejection Fraction(EF%).
+🔶 High fraction - above 70%.
+🔶 Normal fraction - 55% - 70%.
+🔶 Low fraction - 40% - 55%.
+🔶 Possible heart failure - below 40%.
+      
 
