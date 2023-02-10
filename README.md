@@ -38,7 +38,9 @@
 🔶 High fraction - above 70%.
 
 🔶 Normal fraction - 55% - 70%.
+
 🔶 Low fraction - 40% - 55%.
+
 🔶 Possible heart failure - below 40%.
       
 
