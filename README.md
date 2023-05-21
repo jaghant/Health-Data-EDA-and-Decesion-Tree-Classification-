@@ -11,7 +11,7 @@
 
 ### State Wise Diagnosis Yes Or No In "Female".
 ![image](https://github.com/jaghant/Health-Data-EDA-and-Decesion-Tree-Classification-/assets/108980892/11b4844b-152c-4f36-8c98-40e6af4d9ea6)
-![image](https://user-images.githubusercontent.com/108980892/212245778-67050a84-4c4c-400b-9382-4133a8be1a0b.png)
+![image](https://github.com/jaghant/Health-Data-EDA-and-Decesion-Tree-Classification-/assets/108980892/0f882155-a34d-4195-bb18-90972615302c)
 
 ### Data Is Being Plot On Age Depends On "IP No".
 ![image](https://user-images.githubusercontent.com/108980892/212246041-ee565e74-374f-4d39-88df-94a4d42a13cd.png) ![image](https://user-images.githubusercontent.com/108980892/212246139-cd8e3fe6-2f6f-460f-b550-f704a78bb8e9.png)
